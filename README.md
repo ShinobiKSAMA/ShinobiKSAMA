@@ -1,7 +1,7 @@
 # Hello World! I'm Aditya Mhatre
 
 <p>
-A Programming Enthusiast and Developer From Maharashtra, India. I'm Also A Freelancer
+A Programming Enthusiast, Developer and Illustrator From Maharashtra, India. I'm Also A Freelancer
 <br>
 On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Python Programs, Java Applications, Web Developement and Much More.
 </p>
