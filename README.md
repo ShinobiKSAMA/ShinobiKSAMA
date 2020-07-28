@@ -1,4 +1,4 @@
-# Hello World! I'm Aditya Mhatre
+# Hello World! I'm Aditya Mhatre <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
 
 <p>
 A Programming Enthusiast, Developer and Illustrator From Maharashtra, India. I'm Also A Freelancer
