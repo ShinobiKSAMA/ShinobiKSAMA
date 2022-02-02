@@ -8,9 +8,5 @@ On My Github You'll Find Stuff Related to Mobile App Developement to Flutter, Py
 
 ### Find Me On
 
-<a href="https://www.linkedin.com/in/aditya-mhatre-9a0254ab/">
-  <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
-</a>
-<a href="https://twitter.com/aditya_amask">
-  <img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
-</a>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/)
